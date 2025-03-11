@@ -37,6 +37,8 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+
+    namespace "com.example.image_gallery_saver"
 }
 
 dependencies {
