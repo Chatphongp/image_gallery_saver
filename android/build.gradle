@@ -38,7 +38,7 @@ android {
         disable 'InvalidPackage'
     }
 
-    namespace "com.example.image_gallery_saver"
+    namespace "com.example.imagegallerysaver"
 }
 
 dependencies {
